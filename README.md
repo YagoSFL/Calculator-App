@@ -20,7 +20,7 @@ devidamente instalados na maquina:
 
 Para a executar a aplicação seguir os seguintes passos:
 
-- Acessar o diretório ../Calculadora/frontend
+- Acessar o diretório ../Calculadora/app-calc
 - executar o comando "npm i"
 - Após o fim da instalação executar o comando "npm start" para iniciar a 
 aplicação
